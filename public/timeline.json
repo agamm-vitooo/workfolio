@@ -1,0 +1,60 @@
+[{
+        "title": "Aug 2023 – Dec 2023",
+        "content": {
+            "text": [
+                "Testing Management QA – Intern at KAMPUS MERDEKA - BANK CIMB NIAGA, South Tangerang, ID",
+                "Developed and managed 30+ test scripts daily using Microsoft Excel and ALM software, achieving 100% compliance with testing standards (SDLC, UAT, Micro Focus ALM, Blackbox, Gherkin).",
+                "Executed comprehensive testing processes for mobile and web applications, identifying and reporting 50+ defects to improve application functionality (Defect Management, Report).",
+                "Produced detailed testing documentation, contributing to a 9% reduction in bug resolution time through clear communication of test results to development teams (Test Planning, Test Cases, Test Scenarios, Test Execution)."
+            ],
+            "images": []
+        }
+    },
+    {
+        "title": "April 2023 – June 2023",
+        "content": {
+            "text": [
+                "Frontend Developer – Intern at DEDIKASI PEMUDA NEGERI (DPN), South Sulawesi, ID",
+                "Spearheaded development of mobile-friendly web applications, improving site performance and accessibility by 85%.",
+                "Collaborated with backend developers and UI/UX designers to deliver a redesigned, WordPress-based website, boosting engagement by 15% post-launch.",
+                "Led weekly sprints to identify and solve UI bugs, enhancing responsiveness and overall site performance."
+            ],
+            "images": []
+        }
+    },
+    {
+        "title": "Mar 2023 – Aug 2023",
+        "content": {
+            "text": [
+                "IT Support – Volunteer at MEDIA SELARAS, Bogor, ID",
+                "Enhanced UI design quality by collaborating across 6 divisions, implementing typography, animations, and interface elements such as buttons and dropdowns using Figma, React, Axios, and Tailwind CSS.",
+                "Delivered 5 coding training sessions over a month to help teams better implement UI designs into source code.",
+                "Developed a scholarship and internship page, generating 150+ weekly visits, by implementing feedback from cross-functional teams."
+            ],
+            "images": []
+        }
+    },
+    {
+        "title": "Jan 2023 – Feb 2023",
+        "content": {
+            "text": [
+                "UI/UX - Virtual Internship at FUNDEX : PROJECT BASED INTERN : VIRTUAL INTERNSHIP EXPERIENCE",
+                "Led the end-to-end redesign of the FundEx website, including user research, wireframes, and usability testing.",
+                "Conducted user journey mapping and prototyping, resulting in a 20% improvement in website usability post-redesign (Figma, Miro, & Maze).",
+                "Utilized tools like Maze for usability testing and Figma for high-fidelity designs, delivering 5+ iterations for stakeholder approval."
+            ],
+            "images": []
+        }
+    },
+    {
+        "title": "May 2023 – June 2023",
+        "content": {
+            "text": [
+                "Frontend Web Learning Path at BAPAREKRAF DIGITAL TALENT 2023 – FRONTEND DEVELOPER, Jakarta, ID",
+                "Built responsive landing pages using Semantic HTML and CSS Flexbox, increasing user interaction by 30% through optimized design principles.",
+                "Designed and implemented clean and accessible codebases, following best practices for frontend development."
+            ],
+            "images": []
+        }
+    }
+]
