@@ -44,6 +44,7 @@ const ProjectCard = () => {
                 alt={`${project.name} thumbnail`}
                 height="1000"
                 width="1000"
+                loading="lazy" // Lazy loading attribute added
                 className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
               />
             </CardItem>

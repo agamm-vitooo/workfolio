@@ -1,16 +1,18 @@
-import React from 'react'
-import ProjectCard from '../molecules/ProjectCard'
+import React from 'react';
+import ProjectCard from '../molecules/ProjectCard';
 
 const ProjectSection = () => {
   return (
-    <div className='flex flex-wrap justify-evenly'>
-      <ProjectCard/>
-      <div className="text-center mt-3">
+    <div className="flex flex-wrap gap-4 justify-center md:justify-evenly p-4">
+      <ProjectCard />
+      
+      {/* "See Other Projects" Button */}
+      <div className="w-full text-center mt-6">
         <a 
           href="https://github.com/agamm-vitooo" 
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center justify-center gap-2 px-6 py-2 text-white rounded-md font-medium"
+          className="flex items-center justify-center gap-2 px-4 py-2 text-white bg-black mb-24 rounded-md font-medium w-full sm:w-auto"
         >
           See Other Projects
           <svg
@@ -26,7 +28,7 @@ const ProjectSection = () => {
         </a>
       </div>
     </div>
-  )
+  );
 }
 
-export default ProjectSection
+export default ProjectSection;

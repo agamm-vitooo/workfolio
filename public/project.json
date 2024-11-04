@@ -2,7 +2,7 @@
         "id": 1,
         "name": "Aplikasi Pahlawan Nasional",
         "description": "An educational app designed to provide users with insights into Indonesia's national heroes, offering historical information, biographies, and quizzes to enhance learning engagement.",
-        "image": "https://yourwebsite.com/images/pahlawan-app.png",
+        "image": "https://i.imgur.com/WHXa8lz.png",
         "demo": "https://lokal-hero.vercel.app/",
         "github": "https://github.com/agamm-vitooo/lokal-hero"
     },
@@ -10,7 +10,7 @@
         "id": 2,
         "name": "Food Receipt",
         "description": "A responsive portfolio website to showcase skills, projects, and professional experience, featuring smooth navigation and visually engaging design elements.",
-        "image": "https://yourwebsite.com/images/portfolio.png",
+        "image": "https://i.imgur.com/plKEb7T.png",
         "demo": "https://food-receipt.vercel.app/",
         "github": "https://github.com/agamm-vitooo/cmlabs-frontend-internship-test"
     },
@@ -18,7 +18,7 @@
         "id": 3,
         "name": "Food & Delivery",
         "description": "A CRUD (Create, Read, Update, Delete) application for managing reservations, designed for seamless scheduling, editing, and record-keeping of booking data.",
-        "image": "https://yourwebsite.com/images/reservation-crud.png",
+        "image": "https://i.imgur.com/Bl8IWuq.png",
         "demo": "https://food-and-delivery.vercel.app/",
         "github": "https://github.com/agamm-vitooo/Food-and-Delivery"
     }
