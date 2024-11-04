@@ -1,5 +1,5 @@
 import React from 'react';
-import { DirectionAwareHover } from "../ui/direction-aware-hover";
+import { DirectionAwareHover } from "../UI/direction-aware-hover";
 import imageSrc from "../../assets/images/images.jpg"; // Import the local image
 import ShimmerButton from '../atom/Button';
 import cvFile from '../../assets/file/Agam Vito Asyhari - Curiculum Vitae.pdf'; // Import CV file
