@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { TimelineDemo } from '../components/organism/Timeline';
+import ProfileSection from '../components/organism/ProfileSection';
 
 const TimelinePages = () => {
   // Define the container variants for staggered animations
@@ -33,6 +34,11 @@ const TimelinePages = () => {
       initial="hidden"
       animate="visible"
     >
+      {/* Profile section placed above TimelineDemo */}
+      <motion.div variants={itemVariants}>
+        <ProfileSection />
+      </motion.div>
+      
       <motion.div variants={itemVariants}>
         <TimelineDemo />
       </motion.div>
