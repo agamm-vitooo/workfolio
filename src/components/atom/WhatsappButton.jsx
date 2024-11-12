@@ -3,8 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 function WhatsAppButton() {
-  const phoneNumber = '08895576402'; // Ganti dengan nomor WhatsApp Anda
-  const whatsappUrl = `https://wa.me/${phoneNumber}`;
+  const whatsappUrl = `https://wa.me/628895576402`;
 
   return (
     <motion.a

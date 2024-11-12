@@ -21,5 +21,13 @@
         "image": "https://i.imgur.com/Bl8IWuq.png",
         "demo": "https://food-and-delivery.vercel.app/",
         "github": "https://github.com/agamm-vitooo/Food-and-Delivery"
+    },
+    {
+        "id": 4,
+        "name": "SIMS PPOB",
+        "description": "SIMS-PPOB adalah aplikasi berbasis web yang dikembangkan dengan teknologi React dan Vite untuk keperluan Point of Payment Online Banking (PPOB). Aplikasi ini memanfaatkan Firebase sebagai layanan backend serta didukung dengan pengaturan tampilan menggunakan Tailwind CSS.",
+        "image": "https://i.imgur.com/jPl1w0c.png",
+        "demo": "https://sims-ppob-chi.vercel.app/",
+        "github": "https://github.com/agamm-vitooo/SIMS-PPOB"
     }
 ]
